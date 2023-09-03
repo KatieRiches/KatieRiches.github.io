@@ -1,5 +1,5 @@
 body {
-  background-color: aliceblue;
+  background-color: #777764;
 }
 
 * {
@@ -89,10 +89,12 @@ a {
 }
 
 .intro {
-  background-color: #5ab5e9;
+  background-color: #ebebde;
   margin: 70px;
   padding: 15%;
   text-align: left;
+  border-radius: 25px;
+  color: #4f4747;
 }
 
 .placeholder {
@@ -101,24 +103,37 @@ a {
 
 .flex-container {
   display: flex;
+  border-radius: 25px;
 }
 
 .flex-container > div {
-  background-color: #f1f1f1;
+  background-color: #ebebde;
   margin: 10px;
   padding: 20px;
   font-size: 30px;
+  border-radius: 25px;
 }
 
 .container {
   display: flex;
   align-items: center;
   justify-content: center;
+  border-radius: 25px;
 }
 
 .container > div {
-  background-color: #f1f1f1;
+  background-color: #ebebde;
   margin: 10px;
   padding: 20px;
   font-size: 30px;
+  border-radius: 25px;
 }
+h3 {
+color: #4f4747,
+
+}
+
+
+Whiteish #ebebde;
+Greenbrown #777764
+Brown #4f4747
