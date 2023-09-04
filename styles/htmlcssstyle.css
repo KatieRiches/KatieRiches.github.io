@@ -5,7 +5,7 @@ body {
 
 div.static {
   position: static;
-  border: 3px solid #ebebde;
+  border: 3px solid #f5f8f1;
   margin: auto;
   width: 50%;
   padding: 10px;
@@ -15,7 +15,7 @@ div.relative {
   position: relative;
   left: 50px;
   top: 10px;
-  border: 3px solid #ebebde;
+  border: 3px solid #f5f8f1;
   margin: auto;
   width: 50%;
   padding: 10px;
@@ -23,7 +23,7 @@ div.relative {
 
 div.relative1 {
   position: relative;
-  border: 3px solid #ebebde;
+  border: 3px solid #f5f8f1;
   margin: auto;
   width: 50%;
   padding: 10px;
@@ -34,7 +34,7 @@ div.fixed {
   bottom: 0;
   right: 0;
   width: 30px;
-  border: 3px solid #ebebde;
+  border: 3px solid #f5f8f1;
   margin: auto;
   width: 50%;
   padding: 10px;
