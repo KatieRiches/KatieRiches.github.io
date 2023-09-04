@@ -135,43 +135,6 @@ h3 {
   color: #4f4747;
 }
 
-div.static {
-  position: static;
-  border: 3px solid #ebebde;
-  margin: auto;
-  width: 50%;
-  padding: 10px;
-}
-
-div.relative {
-  position: relative;
-  left: 50px;
-  top: 10px;
-  border: 3px solid #ebebde;
-  margin: auto;
-  width: 50%;
-  padding: 10px;
-}
-
-div.relative1 {
-  position: relative;
-  border: 3px solid #ebebde;
-  margin: auto;
-  width: 50%;
-  padding: 10px;
-}
-
-div.fixed {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  width: 30px;
-  border: 3px solid #ebebde;
-  margin: auto;
-  width: 50%;
-  padding: 10px;
-}
-
 /* Whiteish #ebebde;
 Greenbrown #777764
 Brown #4f4747 */

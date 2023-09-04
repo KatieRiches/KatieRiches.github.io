@@ -1,0 +1,45 @@
+div.static {
+  position: static;
+  border: 3px solid #ebebde;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+div.relative {
+  position: relative;
+  left: 50px;
+  top: 10px;
+  border: 3px solid #ebebde;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+div.relative1 {
+  position: relative;
+  border: 3px solid #ebebde;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+div.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 30px;
+  border: 3px solid #ebebde;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+/* Whiteish #ebebde;
+Greenbrown #777764
+Brown #4f4747 */
