@@ -92,7 +92,7 @@ a {
 /* ^Nav Bar CSS */
 
 .intro {
-  background-color: #ebebde;
+  background-color: #f5f8f1;
   margin: 70px;
   padding: 15%;
   text-align: left;
@@ -111,7 +111,7 @@ a {
 }
 
 .flex-container > div {
-  background-color: #ebebde;
+  background-color: #f5f8f1;
   margin: 10px;
   padding: 20px;
   font-size: 30px;
@@ -126,7 +126,7 @@ a {
 }
 
 .container > div {
-  background-color: #ebebde;
+  background-color: #f5f8f1;
   margin: 10px;
   padding: 20px;
   font-size: 30px;
