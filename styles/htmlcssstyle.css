@@ -44,6 +44,27 @@ h1 {
   text-align: center;
 }
 
+.staticcode {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.relativecode {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.fixedcode {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /* Whiteish #ebebde;
 Greenbrown #777764
 Brown #4f4747 */
