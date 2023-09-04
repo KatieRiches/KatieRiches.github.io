@@ -146,3 +146,10 @@ Brown #4f4747 */
   font-family: 'M PLUS Rounded 1c', sans-serif;
   font-size: 30px;
 }
+
+footer {
+  box-sizing: border-box;
+  text-align: center;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-size: 30px;
+}
