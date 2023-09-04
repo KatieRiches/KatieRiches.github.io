@@ -1,3 +1,8 @@
+body {
+  background-color: #777764;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
 div.static {
   position: static;
   border: 3px solid #ebebde;
@@ -37,7 +42,6 @@ div.fixed {
 
 h1 {
   text-align: center;
-  font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 /* Whiteish #ebebde;
