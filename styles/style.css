@@ -1,3 +1,5 @@
+/*Homepage CSS */
+
 body {
   background-color: #777764;
   font-family: 'M PLUS Rounded 1c', sans-serif;
@@ -101,6 +103,7 @@ a {
 }
 
 /* image */
+
 .placeholder {
   float: right;
 }

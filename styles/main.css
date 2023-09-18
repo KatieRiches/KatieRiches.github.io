@@ -1,7 +1,7 @@
 body {
   background-color: #777764;
   font-family: 'M PLUS Rounded 1c', sans-serif;
-  text-align: center;
+  text-align: left;
 }
 
 * {
@@ -19,10 +19,15 @@ ul {
   list-style: none;
 }
 
+h1 {
+  text-align: center;
+}
+
 h2,
 h3,
 a {
   color: #4f4747;
+  text-align: center;
 }
 
 a {
@@ -95,5 +100,37 @@ a {
   margin: 10px;
   padding: 20px;
   font-size: 30px;
+  border-radius: 25px;
+}
+
+.image {
+  text-align: center;
+  background-color: #f5f8f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  border-radius: 25px;
+}
+
+/* Te Whare tapa Wha */
+
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+.column {
+  flex: 50%;
+  padding: 10px;
+  height: 300px;
+}
+
+#tewhare {
+  background-color: #f5f8f1;
+  margin: 40px;
+  padding: 40px;
+  font-size: 20px;
   border-radius: 25px;
 }
