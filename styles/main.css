@@ -187,8 +187,18 @@ a {
 }
 
 #exclamation {
-  width: 100%;
-  border-radius: 25px;
+  width: 350px;
+  height: 400px;
+  border-radius: 15px;
   display: block;
   margin-top: 90px;
+}
+
+#peace {
+  width: 350px;
+  height: 400px;
+  border-radius: 15px;
+  display: block;
+  margin-top: 90px;
+  ima
 }
