@@ -175,7 +175,6 @@ a {
 #values {
   width: 100%;
   border-radius: 20px;
-  display: block;
   margin-top: 90px;
 }
 
@@ -200,5 +199,24 @@ a {
   border-radius: 15px;
   display: block;
   margin-top: 90px;
-  ima
+}
+
+#yarn {
+  width: 100%;
+  border-radius: 15px;
+  margin-top: 20%;
+}
+
+#team {
+  width: 100%;
+  margin-top: 80%;
+  border-radius: 15px;
+}
+
+#goals {
+  background-color: #f5f8f1;
+  margin: 20px;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 25px;
 }
